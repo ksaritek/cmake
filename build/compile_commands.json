@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/koray.sariteke/git/personal/cmake/build",
+  "command": "/usr/bin/clang++   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -o CMakeFiles/Tutorial.dir/main.cpp.o -c /Users/koray.sariteke/git/personal/cmake/main.cpp",
+  "file": "/Users/koray.sariteke/git/personal/cmake/main.cpp",
+  "output": "CMakeFiles/Tutorial.dir/main.cpp.o"
+}
+]
