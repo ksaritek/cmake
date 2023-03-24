@@ -1,8 +1,0 @@
-[
-{
-  "directory": "/Users/koray.sariteke/git/personal/cmake/Step1/build",
-  "command": "/usr/bin/clang++  -I/Users/koray.sariteke/git/personal/cmake/Step1/build -g -std=gnu++11 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -o CMakeFiles/Tutorial.dir/tutorial.cxx.o -c /Users/koray.sariteke/git/personal/cmake/Step1/tutorial.cxx",
-  "file": "/Users/koray.sariteke/git/personal/cmake/Step1/tutorial.cxx",
-  "output": "CMakeFiles/Tutorial.dir/tutorial.cxx.o"
-}
-]
